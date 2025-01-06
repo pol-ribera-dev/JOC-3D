@@ -1,1 +1,1 @@
-Creació d'un joc arcade 3D basat en el Cliffy Jump
+Creación de un juego arcade 3D basado en el Cliffy Jump.
